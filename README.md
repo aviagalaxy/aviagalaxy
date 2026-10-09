@@ -1,4 +1,6 @@
-## Hi there 👋
+## Third year MChem Chemistry student at Durham University, graduating in 2028.
+
+## As part of my final year project, I am working on sequencing amino acid residues, using python and C to help speed up the process.
 
 <!--
 **aviagalaxy/aviagalaxy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
